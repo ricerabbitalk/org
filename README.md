@@ -1,2 +1,2 @@
-# sos
-Spell OS Datapack
+# org
+Open Ricerabbitalk Grimoire Datapack

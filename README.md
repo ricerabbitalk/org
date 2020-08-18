@@ -1,0 +1,2 @@
+# sos
+Spell OS Datapack
